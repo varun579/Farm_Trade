@@ -1,0 +1,154 @@
+{
+    "Vegetables":[
+  
+      {
+         "id":"01",
+        "name":"Tomato",
+        "uri":"https://media.istockphoto.com/id/589985234/photo/homegrown-tomatoes.jpg?s=612x612&w=0&k=20&c=uzUhfFsfesTDClRQ_3PACAAS5SIb8UR1RyU9FqAVAco="
+      },
+      {
+        "id":"02",
+       "name":"brinjal",
+       "uri":"https://media.istockphoto.com/id/1309479975/photo/ripe-eggplants-growing-in-the-vegetable-garden.jpg?s=612x612&w=0&k=20&c=M_ItCQdgbwnWljltwSs3xHA1slZP5ZqKZ1FN2n5OQrc="
+      },
+      {
+        "id":"03",
+        "name":"carrot",
+        "uri":"https://media.istockphoto.com/id/185275579/photo/bundles-of-organic-carrots-with-the-stems-still-attached.jpg?s=612x612&w=0&k=20&c=OIdIDUtDF9jxpCFnZlb7ld5tOj8pDMol1XIcfsHFlEk="
+      },
+      {
+        "id":"04",
+       "name":"ladyfinger",
+       "uri":"https://media.istockphoto.com/id/1194248873/photo/pile-of-ladyfinger-vegetable.jpg?s=612x612&w=0&k=20&c=amkA9XQkPWrA5FcCdfn_myas3-I-thqQF25dPhwQ60A="
+      },
+      {
+        "id":"05",
+        "name":"beetroot",
+        "uri":"https://imgs.search.brave.com/YhEp_6mMcvbQzbA54BEkmcQqB6Xono3LJ-2bUyXDmZk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAxLzU4LzM0LzMz/LzM2MF9GXzE1ODM0/MzM5Nl90bW5GdkJ1/SWNNaFdCTGlQZEdN/a1RMVzYxWlduRGhH/eC5qcGc"
+      },
+      {
+        "id":"06",
+       "name":"cucumber",
+       "uri":"https://imgs.search.brave.com/6DYSj0QKyZpPtLu0iPW5OiCrqpwn4EWHa4Cgc6KaI7Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzg5LzI0LzY3/LzM2MF9GXzg5MjQ2/NzE2X1hDVGwzN1pr/VFpBZGZ0NHB5akZR/SlVqQ2pFc2xhWXN4/LmpwZw"
+      }
+    ],
+    "Fruits":[
+
+        
+      {
+        "id":"01",
+       "name":"apple",
+       "uri":"https://imgs.search.brave.com/_2kYnkE6JNegQVJWstNUcE6uRrwD27k_zsq4ggtYNos/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTg0/OTI3NTY0L3Bob3Rv/L2Nsb3NlLXVwLW9m/LXJlZC1yb3lhbC1n/YWxhLWFwcGxlcy5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/YjhqRk44QUF0TmxZ/RFBFVlZjY0RqRHh2/b2ZzSTltX3EtLW16/TVVCeThabz0"
+      },
+     {
+       "id":"02",
+      "name":"banana",
+      "uri":"https://imgs.search.brave.com/oqa3bh1QfWAb0PGrgar7_J0cKm_s8A7wn6xIDvWO5Bk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA4LzIxLzA2LzYx/LzM2MF9GXzgyMTA2/NjE4OF92eWV6cTlh/Q0REalZBRDMwUTdC/akRIUlI2MUNhTDF5/Ti5qcGc"
+     },
+     {
+       "id":"03",
+       "name":"papaya",
+       "uri":"https://imgs.search.brave.com/rtqi08wOPzzLbodcXzezWcHgtz_yb0GNPf51gcR9IAw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNTE1/ODMyODE2L3Bob3Rv/L3BhcGF5YS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9SHNH/dkpNTWZEcnhtcHRl/ZWh1WEdQTTdkbm00/SXdLV1FYc29ub05l/eWdxZz0"
+     },
+     {
+       "id":"04",
+      "name":"orange",
+      "uri":"https://imgs.search.brave.com/znGtyEX7d0XLk4KXjSDjqKJFxB87hwcZP0eG8lnVTSw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTI3/NzQzNjIyL3Bob3Rv/L29yYW5nZXMuanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPUJD/RUZJdUhBOTVVT1Z3/eFRwNzlKc0xhSFVl/a1NEVlRvRi1ELU1J/b0VNbU09"
+     },
+     {
+       "id":"05",
+       "name":"pomegranate",
+       "uri":"https://images.unsplash.com/photo-1541344999736-83eca272f6fc?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHBvbWVncmFuYXRlfGVufDB8fDB8fHww"
+     },
+     {
+       "id":"06",
+      "name":"dragonfruit",
+      "uri":"https://imgs.search.brave.com/7p9Ka4z4cUc9ZP4UDTelJAGUXIE9J1HWKZKOByq1S1s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTE1/NDQ5OTEwL3Bob3Rv/L2RyYWdvbmZydWl0/cy1hdC1tYXJrZXQt/aW4tY2hpbmEuanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPWtR/S2gyaU81ZG5NRVZD/dS1maFBhbnRXS3ls/ZzBSZnVwLWpUM1Bs/LWg2YUU9"
+     }
+
+    ],
+    "DairyProducts":[
+
+        
+        {
+            "id":"01",
+           "name":"milk",
+           "uri":"https://imgs.search.brave.com/y9u24EtPyLo9Mb13wFJSNV8JVuHGdQoaFC4540femf8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTM2/NzM4NDUyMi9waG90/by9vcmFuZ2UtY3Jh/dGUtZmlsbGVkLXdp/dGgtbWlsay1ib3R0/bGVzLXJlYWR5LWZv/ci1kZWxpdmVyeS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/aWJyLU1aWEFHNjZ2/TktIMk9abVY1eVpy/cFFMVzNKRFN3czlv/eXgwRGdOdz0"
+          },
+         {
+           "id":"02",
+          "name":"ghee",
+          "uri":"https://imgs.search.brave.com/PdWTXdJ3Qsat1ljE9o4H9gtsX5KaRLb4Gwqz28reFuQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvOTE0/NjQwODA0L3Bob3Rv/L2doZWUtY2xhcmlm/aWVkLWJ1dHRlci5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/NWtDbE5JaVQ1THJJ/VWNNaXlJbFB1RWdX/S1BJTFhLSm1PeDM0/Zkt3Y1Bwcz0"
+         },
+         {
+           "id":"03",
+           "name":"butter",
+           "uri":"https://imgs.search.brave.com/eGBvWAnP8aBTSjgAEzVmXLoOB_sjYw9QZv0C7sbDc8U/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU1/Mjg3MDQ2L3Bob3Rv/L2Jvd2wtb2YtaG9t/ZW1hZGUtYnV0dGVy/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz1VZVBMQThITFpN/dXN1U3I3cHFqc1dp/T0tNVUxaNG4xU0Vy/WmVQMnZ2aU9NPQ"
+         },
+         {
+           "id":"04",
+          "name":"curd",
+          "uri":"https://imgs.search.brave.com/a-KF98CkqEn4A3aCdSyi5Z_yul3NZM_Qc2Ukd1VK8r0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9mcmVzaC1jb3R0/YWdlLWNoZWVzZS1i/b3dsLXNpbXBsZS1i/YWNrZ3JvdW5kLXdp/dGgtY29weS1zcGFj/ZV8xNDM0NjMtNzM2/Ny5qcGc_c2l6ZT02/MjYmZXh0PWpwZw"
+         },
+         {
+           "id":"05",
+           "name":"paneer",
+           "uri":"https://imgs.search.brave.com/RsQm8CPtqoKaYjGEe_h8SCB56zU0o3f00VU8ValrdRk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA2LzMyLzY0Lzk1/LzM2MF9GXzYzMjY0/OTU1Ml80R2k2ak9s/bmJEbGxHMXF5aktv/NTNsemRGREpORGZo/cS5qcGc"
+         }
+    ]
+    ,
+    "Rice":[
+
+        
+        {
+            "id":"01",
+           "name":"basmati rice",
+           "uri":"https://imgs.search.brave.com/cKqnd-nTSXOLd0_Sycufw50MvbgCZyO5WxJSOKQoUWw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTc1/NTg2MTkyL3Bob3Rv/L2Jhc21hdGktcmlj/ZS5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9cTMzZEJUS1hJ/Yjc1alYxNy1QajQz/VlJqRW11Nk9sa3FJ/c2l6NC1NeFZvUT0"
+          },
+         {
+           "id":"02",
+          "name":"black rice",
+          "uri":"https://imgs.search.brave.com/krfEnDA3-zJr-GWTwG8NxLthGAxvp4qGT-8Ia7nfpQA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTc2/ODI0NTA5NC9waG90/by92ZW51cy1ibGFj/ay1yaWNlLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1la3NE/VnRSUnE5NHVlbm03/ZHFNZHVoX3FBRi01/TFIxMnZScW55YkI3/UFA0PQ"
+         },
+         {
+           "id":"03",
+           "name":"brown rice",
+           "uri":"https://imgs.search.brave.com/669ex65iRONvwcI4RJMDskkxa1dJfXVaqR08KpzthRM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTcz/NTg5NjIwL3Bob3Rv/L2Jyb3duLXJpY2Uu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PXl2dTFXMmM1Zmox/QWE2bGItTnZXUVBY/WG1MX19RV0pxUzJr/R2xoQ2ZxMEk9"
+         },
+         {
+           "id":"04",
+          "name":"paraboiled rice",
+          "uri":"https://imgs.search.brave.com/S-9zu8Gp4JdlNFaIIyt2jQHHpulAp5eJ6B7RARLmgj4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTgz/NDIyMzE1L3Bob3Rv/L2hlYWx0aHktcGFy/Ym9pbGVkLXJpY2Uu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PVdRdUlCcF9YcXdv/anRlVDRiR0YyNlVp/Mm5kMnltTjVwc0tz/eGRzc0t1dFU9"
+         }
+    
+
+    ]
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

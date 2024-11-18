@@ -1,0 +1,35 @@
+
+[
+    
+    {
+      "id":"01",
+      "name":"Fruits",
+      "uri":"https://imgs.search.brave.com/x24e3dMnfYZBrtFP9zcF5255TuKsALaeoCrc-SZftL8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9idW5jaC1kaWZm/ZXJlbnQtZnJ1aXRz/LWluY2x1ZGluZy1v/bmUtdGhhdC1oYXMt/ZnJ1aXQtaXRfMTMx/NjI2My0yMTQwMTMu/anBnP3NpemU9NjI2/JmV4dD1qcGc"
+    },
+    {
+      "id":"02",
+      "name":"Vegetables",
+      "uri":"https://imgs.search.brave.com/v14VcJRTYWeHL2jRx_7plxu1QsRukmbojNgmWQivZ5w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNTg5/NDE1NzA4L3Bob3Rv/L2ZyZXNoLWZydWl0/cy1hbmQtdmVnZXRh/Ymxlcy5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9YUJGR1VV/LTk4cG5vaHQ3M2Nv/OHIyVFpJS0YzTUR0/QkJ1OUtTeHR4S19D/MD0"
+    },
+    {
+      "id":"03",
+      "name":"Pulses",
+      "uri":"https://imgs.search.brave.com/z1ePzGaEwyWBs60RLTusRR929Vwl4kegFeU_kzfTa68/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTYz/NzI5NjQ3L3Bob3Rv/L2FuLXVwLWNsb3Nl/LXBpY3R1cmUtb2Yt/b3JnYW5pYy1sZWd1/bWVzLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1FOU5kY1Ny/NFN4UmFZdEtqampr/NnJGb0h2dzY5bW9v/WDVhWTc4SjM0RE1Z/PQ"
+    },
+    {
+     "id":"04",
+      "name":"DairyProducts",
+      "uri":"https://imgs.search.brave.com/S9BZJR5LhlZSgmTCStuM1hrbBWhhtRoVtoxPCiCmv18/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9kYWlyeS1wcm9k/dWN0cy1udXRzLWJs/dWUtYmFja2dyb3Vu/ZC1jb25jZXB0LWlz/cmFlbGktaG9saWRh/eS1zaGF2dW90XzMy/OTQ3OS0yNzQ2Lmpw/Zz9zaXplPTYyNiZl/eHQ9anBn"
+    },
+    {
+     "id":"05",
+      "name":"Seeds",
+      "uri":"https://imgs.search.brave.com/tclfOeUBqeCLYcocWSZD3veTJdYoAdAdJ9JJoi2nSpE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by92YXJpZXR5LXNl/ZWRzLXRvcC12aWV3/LWJhY2tncm91bmRf/MTE3NDQ5Ny04NjIx/NC5qcGc_c2l6ZT02/MjYmZXh0PWpwZw"
+    },
+    {
+      "id":"06",
+      "name":"Rice",
+      "uri":"https://imgs.search.brave.com/W1ZrgGd6rau6Lx0IkQDmGTqaFYdSriI_FnWYSL4hX8E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU1/MTU2NzE2L3Bob3Rv/L3JpY2UuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPVpxeUw4/LW9uZkdiYWVWZVBX/eVVIS2lOalQ5cVQ4/TGNYQ2pibldSTEF3/Ukk9"
+    }
+   
+  ]
